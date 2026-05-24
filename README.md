@@ -8,7 +8,7 @@ This portfolio showcases my projects, skills, and experience in working with rea
 ---
 
 ## 🚀 Live Website
-🔗 https://portfolio-eight-pi-uk4ko9k7ku.vercel.app/
+🔗 file:///Users/maniyadav/Downloads/maniyadav_portfolio.html
 ---
 
 ## 🛠️ Tech Stack
