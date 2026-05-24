@@ -8,7 +8,7 @@ This portfolio showcases my projects, skills, and experience in working with rea
 ---
 
 ## 🚀 Live Website
-🔗 file:///Users/maniyadav/Downloads/maniyadav_portfolio.html
+🔗 https://maniyadav-web.github.io/Portfolio/
 ---
 
 ## 🛠️ Tech Stack
